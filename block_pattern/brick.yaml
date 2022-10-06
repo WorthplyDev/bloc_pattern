@@ -4,7 +4,7 @@ description: A new brick created for block pattern.
 # The following defines the version and build number for your brick.
 # A version number is three numbers separated by dots, like 1.2.34
 # followed by an optional build number (separated by a +).
-version: 0.1.0+1
+version: 0.1.2+3
 
 # The following defines the environment for the current brick.
 # It includes the version of mason that the brick requires.
@@ -24,6 +24,6 @@ repository: https://github.com/WorthplyDev/bloc_pattern.git
 vars:
   filename:
     type: string
-    description: Your name
-    default: Dash
-    prompt: What is your name?
+    description: Your splash screen name
+    default: Splash View
+    prompt: Enter splash screen name like splash view

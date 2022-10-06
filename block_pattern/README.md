@@ -1,5 +1,12 @@
 # block_pattern
 
+Import plugins according to your need 
+
+https://pub.dev/packages/intl/versions/0.17.0-nullsafety.2
+
+
+
+
 [![Powered by Mason](https://img.shields.io/endpoint?url=https%3A%2F%2Ftinyurl.com%2Fmason-badge)](https://github.com/felangel/mason)
 
 A new brick created with the Mason CLI.
