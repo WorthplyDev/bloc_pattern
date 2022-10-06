@@ -1,0 +1,3 @@
+bricks:
+  block_pattern:
+    path: ./block_pattern/
